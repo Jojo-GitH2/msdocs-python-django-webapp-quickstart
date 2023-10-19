@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: app-python-jonah-prod-001
         slot-name: staging
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7E3CB72773B42858DBE123358D60298 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B5165AEBE6E548578A1A47D7CB034F47 }}
 
