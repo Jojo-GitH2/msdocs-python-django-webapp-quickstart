@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: app-python-jonah-prod-001
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F03EFF9394C74B4A8216376DBAB763FE }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF352F3A80E74CB1952BBA406FF01E3B }}
 
