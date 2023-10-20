@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: app-python-group3-prod-001
         slot-name: staging
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BCD451D5FFB247BEAEC239B95C031D79 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E86C701E5FC422F8D6546E315507D5D }}
 
