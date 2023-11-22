@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: app-hator-dev-eastus2-001
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A3B3E287DB6B4E948077F16350F36936 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_687CB9D524B2423AB575514EB5ACE01D }}
 
